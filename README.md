@@ -1,2 +1,3 @@
 This course teaches Git and GitHub.
-This is an edit.
+
+Udemy course: Git & GitHub for Beginners & Integration With Popular IDEs
